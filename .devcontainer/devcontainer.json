@@ -20,7 +20,8 @@
                 "DavidAnson.vscode-markdownlint",
                 "EditorConfig.EditorConfig",
                 "VisualStudioExptTeam.intellicode-api-usage-examples",
-                "VisualStudioExptTeam.vscodeintellicode"
+                "VisualStudioExptTeam.vscodeintellicode",
+                "GitHub.copilot"
             ]
         }
     }
